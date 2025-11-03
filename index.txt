@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Page</title>
+</head>
+<body>
+    <nav>
+        <a href="index.html">Image Page</a> |
+        <a href="video.html">Video Page</a>
+    </nav>
+
+    <h1>Welcome to My Image Page</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg" 
+         alt="A cute cat" width="500">
+    <p>This page contains an image as required.</p>
+</body>
+</html>

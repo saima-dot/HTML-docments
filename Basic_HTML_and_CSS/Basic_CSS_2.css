@@ -1,0 +1,11 @@
+/* Basic_CSS_2.css */
+
+/* Class to style all <p> elements */
+.custom-text {
+  color: white;                /* Text color */
+  background-color: #3498db;   /* Background color (blue) */
+  font-size: 18px;             /* Font size */
+  text-align: center;          /* Text alignment (centered) */
+  padding: 10px;               /* Adds padding around the text */
+  border-radius: 5px;          /* Rounded corners */
+}

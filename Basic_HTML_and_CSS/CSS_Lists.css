@@ -1,0 +1,17 @@
+/* CSS_Lists.css */
+
+/* Style for unordered list */
+ul {
+  list-style-type: square;  /* Changes the bullet points to squares */
+  color: #3498db;           /* Sets the font color to a blue shade */
+  font-size: 18px;          /* Sets the font size of the list items */
+  padding-left: 20px;       /* Adds padding to the left of the unordered list */
+}
+
+/* Style for ordered list */
+ol {
+  list-style-type: lower-roman; /* Changes the numbering to lower Roman numerals (i, ii, iii, etc.) */
+  color: #e74c3c;               /* Sets the font color to red */
+  font-size: 20px;              /* Sets the font size of the list items */
+  padding-left: 20px;           /* Adds padding to the left of the ordered list */
+}

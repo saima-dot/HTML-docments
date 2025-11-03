@@ -1,0 +1,33 @@
+/* CSS_Table.css */
+
+/* Apply background color to the whole table */
+table {
+  background-color: #f2f2f2; /* Light grey background color for the table */
+  width: 70%;                /* Table width is 70% of the page */
+  margin: 20px auto;         /* Center the table on the page */
+  border-collapse: collapse; /* Collapse borders between cells */
+}
+
+/* Apply font color and padding to table cells */
+th, td {
+  color: #333333;           /* Dark grey font color */
+  text-align: left;         /* Left-align the text in the cells */
+  padding: 10px;            /* Add padding inside the cells */
+  border: 1px solid #ddd;  /* Light grey border around each cell */
+}
+
+/* Table header styles */
+th {
+  background-color: #4CAF50; /* Green background color for the header */
+  color: white;              /* White font color for the header */
+}
+
+/* Hover effect for table rows */
+tr:hover {
+  background-color: #ddd;    /* Light grey background on hover */
+}
+
+/* Optional: Adding a border to the whole table */
+table {
+  border: 2px solid #4CAF50; /* Green border around the entire table */
+}
